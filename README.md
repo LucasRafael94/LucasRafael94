@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
